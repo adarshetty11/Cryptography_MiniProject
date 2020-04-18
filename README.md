@@ -1,1 +1,1 @@
-# Cryptography_MiniProject
+# Modifying RC2 Algorithm
